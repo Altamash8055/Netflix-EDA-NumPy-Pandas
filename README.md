@@ -92,6 +92,9 @@ All graphs are generated using Matplotlib
 
 ---
 
+### Minor documentation update (29 Aug 2026)
+- Improved project notes and formatting.
+
 ## Author
 
 **Altamash — BE Computer Engineering (2026)**
